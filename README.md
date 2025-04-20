@@ -3,8 +3,6 @@
 
 This project simulates **percolation**, a fundamental model in statistical physics used to study phenomena like electrical conductivity and fluid flow through porous materials. The simulation estimates the **percolation threshold (p\*)** — the critical probability where a system transitions from non-percolating to percolating.
 
----
-
 ## 🧠 About the Problem
 
 In percolation theory:
@@ -20,8 +18,6 @@ This simulation answers the question:
 
 This critical fraction is known as the **percolation threshold** `p*`.
 
----
-
 ## 🎯 Features
 
 ✅ Java implementation of the **Quick Union** algorithm (Union-Find).  
@@ -32,8 +28,6 @@ This critical fraction is known as the **percolation threshold** `p*`.
 - 🟦 **Blue**: Full (connected to top)
 - ⬛ **Dark Gray**: Open but not full
 
----
-
 ## 🛠 Technologies Used
 
 - Java (Core Logic)
@@ -41,7 +35,6 @@ This critical fraction is known as the **percolation threshold** `p*`.
 - Object-Oriented Design
 - Quick-Union Union-Find (naive version)
 
----
 
 ## 🎓 Author’s Note
 
@@ -51,7 +44,6 @@ This critical fraction is known as the **percolation threshold** `p*`.
 > - How to structure simulations and estimate probabilities with Monte Carlo methods
 > - How to build clean UI in JavaFX from scratch
 
----
 
 ## 🚀 Getting Started
 
@@ -62,8 +54,6 @@ This critical fraction is known as the **percolation threshold** `p*`.
 ### Run the Project
 
 Run from IntelliJ.
-
----
 
 ## 📈 How the Simulation Works
 
@@ -78,19 +68,15 @@ Run from IntelliJ.
   <img src="img.png" alt="Percolation Simulation GIF" />
 </div>
 
----
-
 ## 📚 References
 
 - [Princeton Algorithms Course (Percolation)](https://coursera.cs.princeton.edu/algs4/assignments/percolation/specification.php)
----
 
 ## 👤 Author
 
 **Angel Chaico**  
 💡 Interested in AI, backend development, and agricultural tech.
 
----
 
 ## 🧩 Future Improvements
 
