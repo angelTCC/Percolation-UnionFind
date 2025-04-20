@@ -56,8 +56,8 @@ This critical fraction is known as the **percolation threshold** `p*`.
 ## 🚀 Getting Started
 
 ### Prerequisites
-- Java 11+
-- JavaFX SDK
+- Java 17
+- javafx-sdk-21.0.7
 
 ### Run the Project
 
